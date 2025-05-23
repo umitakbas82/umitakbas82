@@ -1,5 +1,9 @@
+
 # Enthusiast Frontend Developer
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"   height="500"/>&nbsp;
+<div align=center><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"   height="500"/>&nbsp;
+  
+</div>
+
 
 
 ### 
@@ -22,13 +26,13 @@
 
   ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=umitakbas82&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=umitakbas82&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitakbas82&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitakbas82&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />&nbsp;
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umitakbas82&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umitakbas82&theme=tokyonight" alt="GitHub Streak" />&nbsp;
 
-<img src="https://profile-counter.glitch.me/umitakbas82/count.svg?" alt="visitors count" />
+<img src="https://profile-counter.glitch.me/umitakbas82/count.svg?" alt="visitors count" />&nbsp;
 
 ## GitHub Activity Graph
 
