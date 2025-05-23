@@ -1,10 +1,12 @@
 # Enthusiast Frontend Developer
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"   height="500"/>&nbsp;
+
+
 ### 
 ## Skills
 
 
-<p align="center">
+<p align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
@@ -15,8 +17,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
 </p>
+<div>
 
-## GitHub Stats
+
+  ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=umitakbas82&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
@@ -29,4 +33,5 @@
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=umitakbas82&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
 
