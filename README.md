@@ -1,5 +1,6 @@
 
 # A Frontend Developer Who Codes with the Power of Design
+<small>Where Code Meets Design — Equally Strong, Perfectly Balanced</small>
 <div align=center><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"   height="500"/>&nbsp;
   
 </div>
