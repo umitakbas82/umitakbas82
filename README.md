@@ -1,6 +1,7 @@
 
-# A Frontend Developer Who Codes with the Power of Design
-<small>Where Code Meets Design — Equally Strong, Perfectly Balanced</small>
+# Frontend Developer | Angular Enthusiast | UI-Focused Coder
+<smallTurning complex problems into elegant web interfaces.
+Clean code, clear design, and user-first thinking.</small>
 <div align=center><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"   height="500"/>&nbsp;
   
 </div>
